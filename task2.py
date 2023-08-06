@@ -35,4 +35,5 @@ def get_Max(arr):
 
 outf.write(str(get_Max(arr)))
 outf.close()
+print("me")
 
